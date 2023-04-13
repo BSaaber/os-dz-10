@@ -25,7 +25,7 @@ sending: -25
 sending bit by bit...
 11111111111111111111111111100111
 ```
-Пример вывода - receiver
+Пример вывода - receiver:
 ```
 Hello! I am receiver. My pid is: 7735
 Enter sender pid
